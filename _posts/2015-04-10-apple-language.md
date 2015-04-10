@@ -23,5 +23,4 @@ tags: osx garageband magic
 viv@Ivans-MBP:~$ defaults write com.apple.garageband10 AppleLanguages '(ru-RU)'
 {% endhighlight %}
 
-## оутро
-Ну собственно теперь можно мыслить нормально в тактах, долях и т.д. не ломая мозг собачими band'ами и другим мусором
+Теперь можно мыслить нормально в тактах, долях и т.д. не ломая мозг собачими band'ами и другим мусором
